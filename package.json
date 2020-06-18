@@ -35,7 +35,10 @@
     "prettier": "~1.5.3"
   },
   "dependencies": {
-    "psi": "4.0.1"
+    "googleapis": "^52.1.0",
+    "psi": "4.0.1",
+    "request": "^2.88.2",
+    "valid-url": "^1.0.9"
   },
   "scripts": {
     "lint": "eslint .",
